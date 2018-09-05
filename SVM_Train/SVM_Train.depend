@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1528282914 source:e:\codeblocks\svm_train\svm-train.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	"svm.h"
+
+1527500079 e:\codeblocks\svm_train\svm.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<float.h>
+	<string.h>
+	<stdarg.h>
+	<time.h>
+	<assert.h>
+	<limits>
+	"timer.hpp"
+	<iostream>
+
+1335302812 e:\codeblocks\svm_train\timer.hpp
+	<windows.h>
+	<ctime>
+	<stdio.h>
+	<sys/time.h>
+
+1527215633 source:e:\codeblocks\svm_train\svm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<float.h>
+	<string.h>
+	<stdarg.h>
+	<time.h>
+	<assert.h>
+	<limits>
+	"timer.hpp"
+	"svm.h"
+	<iostream>
+
+1335302813 source:e:\codeblocks\svm_train\timer.cpp
+	<limits>
+	<stdexcept>
+	<sstream>
+	<cassert>
+	"timer.hpp"
+

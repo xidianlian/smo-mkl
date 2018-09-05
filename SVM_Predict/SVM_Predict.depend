@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1335302812 source:e:\codeblocks\svm_predict\svm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<float.h>
+	<string.h>
+	<stdarg.h>
+	<time.h>
+	<assert.h>
+	<limits>
+	"timer.hpp"
+	"svm.h"
+
+1335302812 e:\codeblocks\svm_predict\timer.hpp
+	<windows.h>
+	<ctime>
+	<stdio.h>
+	<sys/time.h>
+
+1335302813 e:\codeblocks\svm_predict\svm.h
+
+1335302813 source:e:\codeblocks\svm_predict\timer.cpp
+	<limits>
+	<stdexcept>
+	<sstream>
+	<cassert>
+	"timer.hpp"
+
